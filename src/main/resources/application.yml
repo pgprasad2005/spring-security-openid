@@ -1,0 +1,10 @@
+server:
+  port: 8081
+google:
+  clientId: 958714113543-ogj735cvrqplh8ldv9aao88gk8g57ij8.apps.googleusercontent.com
+  clientSecret: VC1SAcmkAPEjhBayU4YM-Wgv
+  accessTokenUri: https://www.googleapis.com/oauth2/v3/token
+  userAuthorizationUri: https://accounts.google.com/o/oauth2/auth
+  redirectUri: http://localhost:8081/google-login
+  issuer: accounts.google.com
+  jwkUrl: https://www.googleapis.com/oauth2/v2/certs
