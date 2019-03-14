@@ -1,11 +1,11 @@
 OpenID Connect with Spring Security
 
-Run the Project
-mvn spring-boot:run
+  Run the Project
+  mvn spring-boot:run
 
 Obtain Google App - Client ID, Secret
 
-You need to get client id and client secret by creating a new project at Google Developer Console
+  You need to get client id and client secret by creating a new project at Google Developer Console
 
 Make sure to add OAuth2 credentials by selecting Add credentials > OAuth 2.0 client ID
 
