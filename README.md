@@ -1,6 +1,7 @@
 OpenID Connect with Spring Security
 
   Run the Project
+  
   mvn spring-boot:run
 
 Obtain Google App - Client ID, Secret
